@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Best Ofar</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_trending">ট্রেন্ডিং</string>
+    <string name="nav_bookmark">বুকমার্ক</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="action_search">খবর খুঁজুন</string>
+    <string name="action_notifications">বিজ্ঞপ্তি</string>
+    <string name="action_bookmark">বুকমার্ক করুন</string>
+    <string name="action_share">শেয়ার করুন</string>
+    <string name="action_back">ফিরে যান</string>
+    <string name="premium_cta">প্রিমিয়াম নিন - ১০০ টাকা</string>
+    <string name="premium_unlocked">প্রিমিয়াম আনলকড</string>
+    <string name="trending_header">🔥 ট্রেন্ডিং Top 10</string>
+    <string name="bookmark_header">🔖 বুকমার্ক</string>
+    <string name="bookmark_empty_title">এখনো কিছু সেভ করেননি</string>
+    <string name="bookmark_empty_subtitle">পছন্দের সংবাদ বুকমার্ক করে রাখুন, পরে অফলাইনেও পড়তে পারবেন।</string>
+    <string name="profile_header">👤 আমার প্রোফাইল</string>
+    <string name="payment_history_header">পেমেন্ট হিস্ট্রি</string>
+    <string name="no_payment_history">কোনো পেমেন্ট নেই</string>
+    <string name="admin_panel_title">অ্যাডমিন প্যানেল</string>
+    <string name="payment_title">পেমেন্ট করুন</string>
+</resources>

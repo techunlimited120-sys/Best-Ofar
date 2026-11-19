@@ -1,0 +1,6 @@
+{
+  "name": "Best Ofar",
+  "description": "Bengali news, trending stories, bookmarks, and premium membership app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
